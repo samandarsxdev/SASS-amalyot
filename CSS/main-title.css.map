@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAA;EACD,OAAO,EAAE,MAAM;CAOlB;;AANI,AAAD,UAAM,CAAA;EACF,KAAK,EAAE,KAAK;EACpB,UAAU,EAAE,OAAO;EACnB,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,2BAA2B;EACnD,aAAa,EAAE,SAAS;CACnB;;AAEL,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;CACjB",
+    "sources": [
+        "../SCSS/blocks/main-title.scss"
+    ],
+    "names": [],
+    "file": "main-title.css"
+}

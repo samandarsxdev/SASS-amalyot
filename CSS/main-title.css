@@ -1,0 +1,17 @@
+.main {
+  padding: 20px 0;
+}
+
+.main__row {
+  width: 300px;
+  background: #202A3C;
+  -webkit-box-shadow: 5px 5px 8px rgba(56, 56, 56, 0.0991282);
+          box-shadow: 5px 5px 8px rgba(56, 56, 56, 0.0991282);
+  border-radius: 3.93258px;
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=main-title.css.map */
